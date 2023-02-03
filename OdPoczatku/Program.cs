@@ -45,6 +45,9 @@ internal class Program
             { counter9++; }
         }
 
+        Console.WriteLine("Liczba wejściowa: ");
+        Console.WriteLine(number);
+ 
         Console.WriteLine("Ilość cyfr 0 ");
         Console.WriteLine(counter0);
 
